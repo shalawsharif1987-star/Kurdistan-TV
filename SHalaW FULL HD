@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rudaw HD" tvg-logo="Local" group-title="Kurdish",Rudaw HD
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kurdistan24" tvg-logo="Local" group-title="Kurish",Kurdistan24
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 tvg-id="AVA tv HD" tvg-logo="News" group-title="Kurdish",AVA tv HD
+https://ava5.site/upload/images/720.m3u8
+#EXTINF:-1 tvg-id="Kurdmax" tvg-logo="Local" group-title="Kurdish",Kurdmax
+https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
+#EXTINF:-1 tvg-id="Show tv" tvg-logo="Local" group-title="Kurdish",Show tv
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
+#EXTINF:-1 tvg-id="KurdistanTV" tvg-logo="Local" group-title="Kurdish",KurdistanTV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel 8" tvg-logo="Local" group-title="Kurdish",Channel 8
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="Gk HD" tvg-logo="Local" group-title="Kurdish",Gk HD
+https://live.host247.net/gk/gksat/chunklist_w1578718171.m3u8
+#EXTINF:-1 tvg-id="ZoomHD" tvg-logo="Local" group-title="Kurdish",ZoomHD
+https://live.zoomnews.info/live/Zoom/index.m3u8
+#EXTINF:-1 tvg-id="Kurd Sat" tvg-logo="Local" group-title="Kurdish",Kurd Sat
+https://iko-live.akamaized.net/KurdsatTV/master_2.m3u8
+#EXTINF:-1 tvg-id="Kurdsat News" tvg-logo="Local" group-title="Kurdish",Kurdsat News
+https://iko-streamline-live1.akamaized.net/KurdsatNews/master_0.m3u8
+#EXTINF:-1 tvg-id="Payam HD" tvg-logo="Local" group-title="Kurdish",Payam HD
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:-1 tvg-id="حەیوانات" tvg-logo="Local" group-title="Kurdish",حەیوانات
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-id="سروشت" tvg-logo="Local" group-title="Kurdish",سروشت
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/480p-cc/index.m3u8
+#EXTINF:-1 tvg-id="Barin movies" tvg-logo="Local" group-title="Kurdish",Barin movies
+http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
+#EXTINF:-1 tvg-id="Astera Movies" tvg-logo="Local" group-title="Kurdish",Astera Movies
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/280459
+#EXTINF:-1 tvg-id="Niga Movies" tvg-logo="Local" group-title="Kurdish",Niga Movies
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129908
+#EXTINF:-1 tvg-id="Newline Movies" tvg-logo="Local" group-title="Kurdish",Newline Movies
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312650
+#EXTINF:-1 tvg-id="MMN Movies" tvg-logo="Local" group-title="Kurdish",MMN Movies
+http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
+#EXTINF:-1 tvg-id="Kurd Movies" tvg-logo="Local" group-title="Kurdish",Kurd Movies
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312621
+#EXTINF:-1 tvg-id="Kurd Movies 2" tvg-logo="Local" group-title="Kurdish",Kurd Movies 2
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312622
+#EXTINF:-1 tvg-id="Ava Sport" tvg-logo="Local" group-title="Kurdish",Ava Sport
+http://blue4k.xyz:8080/live/05070793386/6750b02cea052/531814.m3u8
+#EXTINF:-1 tvg-id="NRT Sport" tvg-logo="Local" group-title="Kurdish",NRT Sport
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/689907
+#EXTINF:-1 tvg-id="SEE Sport 1" tvg-logo="Local" group-title="Kurdish",SEE Sport 1
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/689914
+#EXTINF:-1 tvg-id="SEE Sport 2" tvg-logo="Local" group-title="Kurdish",SEE Sport 2
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/689916
+#EXTINF:-1 tvg-id="SEE Sport" tvg-logo="Local" group-title="Kurdish",SEE Sport
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/689915
+#EXTINF:-1 tvg-id="Zaxo Sport" tvg-logo="Local" group-title="Kurdish",Zaxo Sport
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/689912
+#EXTINF:-1 tvg-id="Dhok Sport" tvg-logo="Local" group-title="Kurdish",Dhok Sport
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129834
+#EXTINF:-1 tvg-id="Astera Sport1" tvg-logo="Local" group-title="Kurdish",Astera Sport1
+http://blue4k.xyz:8080/live/05070793386/6750b02cea052/531817.m3u8
+#EXTINF:-1 tvg-id="Astera Sport2" tvg-logo="Local" group-title="Kurdish",Astera Sport2
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/689910
+#EXTINF:-1 tvg-id="Astera Sport3" tvg-logo="Local" group-title="Kurdish",Astera Sport3
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/280462
+#EXTINF:-1 tvg-id="Qalam Sort" tvg-logo="Local" group-title="Kurdish",Qalam Sort
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/689906
+#EXTINF:-1 tvg-id="Newline Sport" tvg-logo="Local" group-title="Kurdish",Newline Sport
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/689909
+#EXTINF:-1 tvg-id="4Sport" tvg-logo="Local" group-title="Kurdish",4Sport
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/689917
+#EXTINF:-1 tvg-id="Biaban Sport" tvg-logo="Local" group-title="Kurdish",Biaban Sport
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129820
+#EXTINF:-1 tvg-id="Nubar Sport" tvg-logo="Local" group-title="Kurdish",Nubar Sport
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312664
+#EXTINF:-1 tvg-id="Gawher Sport" tvg-logo="Local" group-title="Kurdish",Gawher Sport
+http://142.132.133.190:1935/live/Gewher_Sport/playlist.m3u8
+#EXTINF:-1 tvg-id="Bein Sport news" tvg-logo="Local" group-title="Kurdish",Bein Sport news
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/552078
+#EXTINF:-1 tvg-id="Bein Sport 1" tvg-logo="Local" group-title="Kurdish",Bein Sport 1
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/986973
+#EXTINF:-1 tvg-id="Bein Sport 2" tvg-logo="Local" group-title="Kurdish",Bein Sport 2
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/203886
+#EXTINF:-1 tvg-id="Bein Sport 3" tvg-logo="Local" group-title="Kurdish",Bein Sport 3
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/203887
+#EXTINF:-1 tvg-id="Bein Sport 4" tvg-logo="Local" group-title="Kurdish",Bein Sport 4
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/203888
+#EXTINF:-1 tvg-id="Bein sport 5" tvg-logo="Local" group-title="Kurdish",Bein sport 5
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/203889
+#EXTINF:-1 tvg-id="Bein Sport 6" tvg-logo="Local" group-title="Kurdish",Bein Sport 6
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/203890
+#EXTINF:-1 tvg-id="Bein Sport 7" tvg-logo="Local" group-title="Kurdish",Bein Sport 7
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/203891
+#EXTINF:-1 tvg-id="Bein Sport 8" tvg-logo="Local" group-title="Kurdish",Bein Sport 8
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/418586
+#EXTINF:-1 tvg-id="Bein Sport 9" tvg-logo="Local" group-title="Kurdish",Bein Sport 9
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/552078
+#EXTINF:-1 tvg-id="Sky Spor 1" tvg-logo="Local" group-title="Kurdish",Sky Spor 1
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/808731
+#EXTINF:-1 tvg-id="Sky Sport 2" tvg-logo="Local" group-title="Kurdish",Sky Sport 2
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/808733
+#EXTINF:-1 tvg-id="Sky Sport 3" group-title="",Sky Sport 3
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/808734
+#EXTINF:-1 tvg-id="Sky Sport 4" tvg-logo="Local" group-title="Kurdish",Sky Sport 4
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/808735
+#EXTINF:-1 tvg-id="Sky Sport 5" tvg-logo="Local" group-title="Kurdish",Sky Sport 5
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/808736
+#EXTINF:-1 tvg-id="Sky Sport 6" tvg-logo="Local" group-title="Kurdish",Sky Sport 6
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/808737
+#EXTINF:-1 tvg-id="Sky Sport 7" tvg-logo="Local" group-title="Kurdish",Sky Sport 7
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/808738
+#EXTINF:-1 tvg-id="Sky Sport8" tvg-logo="Local" group-title="Kurdish",Sky Sport8
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/808739
+#EXTINF:-1 tvg-id="Sky Sport 9" tvg-logo="Local" group-title="Kurdish",Sky Sport 9
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/808740b
+#EXTINF:-1 tvg-id="Sky Sport 10" tvg-logo="Local" group-title="Kurdish",Sky Sport 10
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/808741
+#EXTINF:-1 tvg-id="Dazn 1" tvg-logo="Local" group-title="kurdish",Dazn 1
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/808741
+#EXTINF:-1 tvg-id="Dazn 2" tvg-logo="Local" group-title="Kurdish",Dazn 2
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/254502
+#EXTINF:-1 tvg-id="Dazn 3" tvg-logo="Local" group-title="Kurdish",Dazn 3
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/254503
+#EXTINF:-1 tvg-id="Dazn 4" tvg-logo="Local" group-title="Kurdish",Dazn 4
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/267637
+#EXTINF:-1 tvg-id="Dazn 5" tvg-logo="Local" group-title="Kurdish",Dazn 5
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/267638
+#EXTINF:-1 tvg-id="Dazn 6" tvg-logo="Local" group-title="Kurdish",Dazn 6
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/254506
+#EXTINF:-1 tvg-id="Dazn 7" tvg-logo="Local" group-title="Kurdish",Dazn 7
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/267640
+#EXTINF:-1 tvg-id="Canal+1" tvg-logo="Local" group-title="Kurdish",Canal+1
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/987095
+#EXTINF:-1 tvg-id="Canal+ 2" tvg-logo="Local" group-title="Kurdish",Canal+ 2
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/75835
+#EXTINF:-1 tvg-id="Canal+ 3" tvg-logo="Local" group-title="Kurdish",Canal+ 3
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/75827
+#EXTINF:-1 tvg-id="Canal+ 4" tvg-logo="Local" group-title="Kurdish",Canal+ 4
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/75828
+#EXTINF:-1 tvg-id="Polsat Sport 1" tvg-logo="Local" group-title="Kurdish",Polsat Sport 1
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/67797
+#EXTINF:-1 tvg-id="Polsat Sport 2" tvg-logo="Local" group-title="Kurdish",Polsat Sport 2
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/67796
+#EXTINF:-1 tvg-id="Polsat Sport 3" tvg-logo="Local" group-title="Kurdish",Polsat Sport 3
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/75831
+#EXTINF:-1 tvg-id="TVP Sport" tvg-logo="Local" group-title="Kurdish",TVP Sport
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/67806
+#EXTINF:-1 tvg-id="Digi Sport 1" tvg-logo="Local" group-title="Kurdish",Digi Sport 1
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/68898
+#EXTINF:-1 tvg-id="Digi Sport 2" tvg-logo="Local" group-title="Kurdish",Digi Sport 2
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/68899
+#EXTINF:-1 tvg-id="Digi Sport 3" tvg-logo="Local" group-title="Kurdish",Digi Sport 3
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/68901
+#EXTINF:-1 tvg-id="Digi Sport 4" tvg-logo="Local" group-title="Kurdish",Digi Sport 4
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/68902
+#EXTINF:-1 tvg-id="Prima Sport" tvg-logo="Local" group-title="Kurdish",Prima Sport
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/326583
+#EXTINF:-1 tvg-id="Viasat Sport" tvg-logo="Local" group-title="Kurdish",Viasat Sport
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/276947
+#EXTINF:-1 tvg-id="V Sport 1" tvg-logo="Local" group-title="Kurdish",V Sport 1
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/310985
+#EXTINF:-1 tvg-id="VSport 2" tvg-logo="Local" group-title="Kurdish",VSport 2
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/310986
+#EXTINF:-1 tvg-id="Nbc Sport" tvg-logo="Local" group-title="Kurdish",Nbc Sport
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/71964
+#EXTINF:-1 tvg-id="Real Madrid" tvg-logo="Local" group-title="Kurdish",Real Madrid
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="Afarin HD" tvg-logo="Local" group-title="Kurdish",Afarin HD
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/chunklist_w286602395.m3u8
+#EXTINF:-1 tvg-id="Afarin baxcha HD" tvg-logo="Local" group-title="Kurdish",Afarin baxcha HD
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/chunklist_w286602395.m3u8
+#EXTINF:-1 tvg-id="New Max kids" tvg-logo="Local" group-title="Kurdish",New Max kids
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312743
+#EXTINF:-1 tvg-id="Niga kids" tvg-logo="Local" group-title="Kurdish",Niga kids
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312657
+#EXTINF:-1 tvg-id="Newline Kids" tvg-logo="Local" group-title="Kurdish",Newline Kids
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312649
+#EXTINF:-1 tvg-id="NRT Kis" tvg-logo="Local" group-title="Kurdish",NRT Kis
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129976
+#EXTINF:-1 tvg-id="Baby Shark" tvg-logo="Local" group-title="Kids",Baby Shark
+https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-id="atv 1" tvg-logo="Local" group-title="Kurdish",atv 1
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 tvg-id="atv 2" tvg-logo="Local" group-title="Kurdish",atv 2
+http://185.234.111.229:8000/play/a018
+#EXTINF:-1 tvg-id="Show tv" tvg-logo="Local" group-title="Kurdish",Show tv
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-id="Star 1" tvg-logo="Local" group-title="Kurdish",Star 1
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="Star 2" tvg-logo="Local" group-title="Kurdish",Star 2
+http://185.234.111.229:8000/play/a01h
+#EXTINF:-1 tvg-id="Kanal D" tvg-logo="Local" group-title="Kurdish",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 tvg-id="Kral tv" tvg-logo="Local" group-title="Kurdish",Kral tv
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tv8" tvg-logo="Local" group-title="Kurdish",Tv8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&amp;ce=3
+#EXTINF:-1 tvg-id="TRT 1" tvg-logo="Local" group-title="Kurdish",TRT 1
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&amp;ce=3
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="Local" group-title="Kurdish",MBC 1
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-id="MBC Bollyoud" tvg-logo="Local" group-title="Kurdish",MBC Bollyoud
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 tvg-id="MBC Drame" tvg-logo="Local" group-title="Kurdish",MBC Drame
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+#EXTINF:-1 tvg-id="MBC Masr" tvg-logo="Local" group-title="Kurdish",MBC Masr
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:-1 tvg-id="MBC Masr Drame" tvg-logo="Local" group-title="Kurdish",MBC Masr Drame
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
+#EXTINF:-1 tvg-id="Aljazira Dicomentary" tvg-logo="Local" group-title="Kurdish",Aljazira Dicomentary
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
