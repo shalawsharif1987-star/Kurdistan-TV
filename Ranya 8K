@@ -1,0 +1,306 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rudaw HD" group-title="",Rudaw HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473143.ts
+#EXTINF:-1 tvg-id="K24" group-title="",K24
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473144.ts
+#EXTINF:-1 tvg-id="Ava" group-title="",Ava
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473153.ts
+#EXTINF:-1 tvg-id="Kurdmax HD" group-title="",Kurdmax HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473149.ts
+#EXTINF:-1 tvg-id="Kurdmax Show" group-title="",Kurdmax Show
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473151.ts
+#EXTINF:-1 tvg-id="Family Raparin" group-title="",Family Raparin
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473217.ts
+#EXTINF:-1 tvg-id="Rasan HD" group-title="",Rasan HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473226.ts
+#EXTINF:-1 tvg-id="Zed HD 1" group-title="",Zed HD 1
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473219.ts
+#EXTINF:-1 tvg-id="Zed HD 2" group-title="",Zed HD 2
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473220.ts
+#EXTINF:-1 tvg-id="Newline HD 1" group-title="",Newline HD 1
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473223.ts
+#EXTINF:-1 tvg-id="Newline HD 2" group-title="",Newline HD 2
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473224.ts
+#EXTINF:-1 tvg-id="Astera Family" group-title="",Astera Family
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473225.ts
+#EXTINF:-1 tvg-id="Niga HD 1" group-title="",Niga HD 1
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473221.ts
+#EXTINF:-1 tvg-id="Rang HD" group-title="",Rang HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473222.ts
+#EXTINF:-1 tvg-id="BMC" group-title="",BMC
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473227.ts
+#EXTINF:-1 tvg-id="KHAK HD" group-title="",KHAK HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473228.ts
+#EXTINF:-1 tvg-id="LAVAL HD" group-title="",LAVAL HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473218.ts
+#EXTINF:-1 tvg-id="Welat" group-title="",Welat
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473216.ts
+#EXTINF:-1 tvg-id="BAHA" group-title="",BAHA
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473229.ts
+#EXTINF:-1 tvg-id="DHOK HD" group-title="",DHOK HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473230.ts
+#EXTINF:-1 tvg-id="Minara" group-title="",Minara
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473231.ts
+#EXTINF:-1 tvg-id="Qalat HD" group-title="",Qalat HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473232.ts
+#EXTINF:-1 tvg-id="ESTA HD" group-title="",ESTA HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473233.ts
+#EXTINF:-1 tvg-id="Halabja HD" group-title="",Halabja HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473234.ts
+#EXTINF:-1 tvg-id="Hormziar" group-title="",Hormziar
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473235.ts
+#EXTINF:-1 tvg-id="Barin" group-title="",Barin
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473236.ts
+#EXTINF:-1 tvg-id="Euro Kurd" group-title="",Euro Kurd
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473237.ts
+#EXTINF:-1 tvg-id="Mahabat" group-title="",Mahabat
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473239.ts
+#EXTINF:-1 tvg-id="MMN Show" group-title="",MMN Show
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473241.ts
+#EXTINF:-1 tvg-id="Bnar HD" group-title="",Bnar HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473242.ts
+#EXTINF:-1 tvg-id="Rashwan" group-title="",Rashwan
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473243.ts
+#EXTINF:-1 tvg-id="Derin HD" group-title="",Derin HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473244.ts
+#EXTINF:-1 tvg-id="Astera D" group-title="",Astera D
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473245.ts
+#EXTINF:-1 tvg-id="Rand D" group-title="",Rand D
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473247.ts
+#EXTINF:-1 tvg-id="MMN D" group-title="",MMN D
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473248.ts
+#EXTINF:-1 tvg-id="4Kurd" group-title="",4Kurd
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473251.ts
+#EXTINF:-1 tvg-id="MMN Clip" group-title="",MMN Clip
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473252.ts
+#EXTINF:-1 tvg-id="MMN CM" group-title="",MMN CM
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473253.ts
+#EXTINF:-1 tvg-id="Shar HD" group-title="",Shar HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473267.ts
+#EXTINF:-1 tvg-id="Aren HD" group-title="",Aren HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473270.ts
+#EXTINF:-1 tvg-id="UTV 1" group-title="",UTV 1
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473272.ts
+#EXTINF:-1 tvg-id="21 HD" group-title="",21 HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473274.ts
+#EXTINF:-1 tvg-id="Astera M" group-title="",Astera M
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473276.ts
+#EXTINF:-1 tvg-id="Niga M" group-title="",Niga M
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473278.ts
+#EXTINF:-1 tvg-id="Speda Drama" group-title="",Speda Drama
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473279.ts
+#EXTINF:-1 tvg-id="MMN M" group-title="",MMN M
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473280.ts
+#EXTINF:-1 tvg-id="Animal Box" group-title="",Animal Box
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473281.ts
+#EXTINF:-1 tvg-id="MMN Drama" group-title="",MMN Drama
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473282.ts
+#EXTINF:-1 tvg-id="Infinity" group-title="",Infinity
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473283.ts
+#EXTINF:-1 tvg-id="MMN A" group-title="",MMN A
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473284.ts
+#EXTINF:-1 tvg-id="Bnar M" group-title="",Bnar M
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473285.ts
+#EXTINF:-1 tvg-id="Shna" group-title="",Shna
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473287.ts
+#EXTINF:-1 tvg-id="Barin M" group-title="",Barin M
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473288.ts
+#EXTINF:-1 tvg-id="Zher" group-title="",Zher
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473289.ts
+#EXTINF:-1 tvg-id="Soran HD" group-title="",Soran HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473290.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 1" group-title="",Kurd Cinema 1
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473291.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 2" group-title="",Kurd Cinema 2
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473292.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 3" group-title="",Kurd Cinema 3
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473293.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 4" group-title="",Kurd Cinema 4
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473294.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 5" group-title="",Kurd Cinema 5
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473295.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 6" group-title="",Kurd Cinema 6
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473296.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 7" group-title="",Kurd Cinema 7
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473297.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 8" group-title="",Kurd Cinema 8
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473298.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 9" group-title="",Kurd Cinema 9
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473299.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 10" group-title="",Kurd Cinema 10
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473300.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 11" group-title="",Kurd Cinema 11
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473301.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 12" group-title="",Kurd Cinema 12
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473302.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 13" group-title="",Kurd Cinema 13
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473311.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 14" group-title="",Kurd Cinema 14
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473312.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 15" group-title="",Kurd Cinema 15
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473313.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 16" group-title="",Kurd Cinema 16
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473314.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 17" group-title="",Kurd Cinema 17
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473315.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 18" group-title="",Kurd Cinema 18
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473316.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 19" group-title="",Kurd Cinema 19
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473317.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 20" group-title="",Kurd Cinema 20
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473318.ts
+#EXTINF:-1 tvg-id="Kurd Cinema Sport" group-title="",Kurd Cinema Sport
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473329.ts
+#EXTINF:-1 tvg-id="Evin" group-title="",Evin
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473261.ts
+#EXTINF:-1 tvg-id="Astera Show" group-title="",Astera Show
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473277.ts
+#EXTINF:-1 tvg-id="SPI" group-title="",SPI
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473268.ts
+#EXTINF:-1 tvg-id="Kurdmax Music" group-title="",Kurdmax Music
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473212.ts
+#EXTINF:-1 tvg-id="Kurd Channel" group-title="",Kurd Channel
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473163.ts
+#EXTINF:-1 tvg-id="Channel 8" group-title="News",Channel 8
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473164.ts
+#EXTINF:-1 tvg-id="NRT" group-title="News",NRT
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473167.ts
+#EXTINF:-1 tvg-id="GK HD" group-title="News",GK HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473169.ts
+#EXTINF:-1 tvg-id="Kirkuk" group-title="",Kirkuk
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473172.ts
+#EXTINF:-1 tvg-id="WAR" group-title="",WAR
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473173.ts
+#EXTINF:-1 tvg-id="Payam HD" group-title="News",Payam HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473174.ts
+#EXTINF:-1 tvg-id="Speda HD" group-title="News",Speda HD
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473175.ts
+#EXTINF:-1 tvg-id="TRT Kurdi" group-title="",TRT Kurdi
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473176.ts
+#EXTINF:-1 tvg-id="Kurd Sat" group-title="News",Kurd Sat
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473177.ts
+#EXTINF:-1 tvg-id="NRT 2" group-title="",NRT 2
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473179.ts
+#EXTINF:-1 tvg-id="Iraqia kurdi" group-title="",Iraqia kurdi
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473184.ts
+#EXTINF:-1 tvg-id="Atv" group-title="",Atv
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473185.ts
+#EXTINF:-1 tvg-id="SAHAR" group-title="",SAHAR
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473186.ts
+#EXTINF:-1 tvg-id="Komal" group-title="",Komal
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473190.ts
+#EXTINF:-1 tvg-id="Med Music" group-title="",Med Music
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473193.ts
+#EXTINF:-1 tvg-id="Sterk" group-title="",Sterk
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473194.ts
+#EXTINF:-1 tvg-id="New TV" group-title="",New TV
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473200.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="Afarin Kids" group-title="",Afarin Kids
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473255.ts
+#EXTINF:-1 tvg-id="Afarin Baxcha" group-title="",Afarin Baxcha
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473256.ts
+#EXTINF:-1 tvg-id="Astera Kids" group-title="",Astera Kids
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473257.ts
+#EXTINF:-1 tvg-id="Rang Kids" group-title="",Rang Kids
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473258.ts
+#EXTINF:-1 tvg-id="Niga Kids" group-title="",Niga Kids
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473259.ts
+#EXTINF:-1 tvg-id="MMN Kids" group-title="",MMN Kids
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473260.ts
+#EXTINF:-1 tvg-id="MBC 1" group-title="",MBC 1
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1175796.ts
+#EXTINF:-1 tvg-id="MBC 2" group-title="",MBC 2
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1175800.ts
+#EXTINF:-1 tvg-id="MBC 3" group-title="",MBC 3
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1175804.ts
+#EXTINF:-1 tvg-id="MBC 4" group-title="",MBC 4
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1175808.ts
+#EXTINF:-1 tvg-id="MBC 5" group-title="",MBC 5
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1175812.ts
+#EXTINF:-1 tvg-id="MBC ACTION" group-title="",MBC ACTION
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1175819.ts
+#EXTINF:-1 tvg-id="MBC Bollywood" group-title="",MBC Bollywood
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1175854.ts
+#EXTINF:-1 tvg-id="atv" group-title="",atv
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/402216.ts
+#EXTINF:-1 tvg-id="Show tv" group-title="",Show tv
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/402211.ts
+#EXTINF:-1 tvg-id="Show turk" group-title="",Show turk
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/402213.ts
+#EXTINF:-1 tvg-id="Show Max" group-title="",Show Max
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/402214.ts
+#EXTINF:-1 tvg-id="Star" group-title="",Star
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/402203.ts
+#EXTINF:-1 tvg-id="Kanal D" group-title="",Kanal D
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/402207.ts
+#EXTINF:-1 tvg-id="Euro D" group-title="",Euro D
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/402210.ts
+#EXTINF:-1 tvg-id="FOX" group-title="",FOX
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/402219.ts
+#EXTINF:-1 tvg-id="Tv8" group-title="",Tv8
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/402221.ts
+#EXTINF:-1 tvg-id="Kanal 7" group-title="",Kanal 7
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/402226.ts
+#EXTINF:-1 tvg-id="TRT 1" group-title="",TRT 1
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/402231.ts
+#EXTINF:-1 tvg-id="TRT 4K" group-title="",TRT 4K
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/402230.ts
+#EXTINF:-1 tvg-id="Kral Pop" group-title="",Kral Pop
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/402341.ts
+#EXTINF:-1 tvg-id="Dream Turk" group-title="",Dream Turk
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/402342.ts
+#EXTINF:-1 tvg-id="Real Madrid" group-title="",Real Madrid
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/920461.ts
+#EXTINF:-1 tvg-id="LALIGA 1" group-title="",LALIGA 1
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/819106.ts
+#EXTINF:-1 tvg-id="LALIGA2" group-title="",LALIGA2
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/819107.ts
+#EXTINF:-1 tvg-id="8 Sport 1" group-title="",8 Sport 1
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1458166.ts
+#EXTINF:-1 tvg-id="8 Sport 2" group-title="",8 Sport 2
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1458165.ts
+#EXTINF:-1 tvg-id="8 Sport 3" group-title="",8 Sport 3
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1458164.ts
+#EXTINF:-1 tvg-id="SSC 1" group-title="",SSC 1
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/868722.ts
+#EXTINF:-1 tvg-id="SSC 2" group-title="",SSC 2
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/851297.ts
+#EXTINF:-1 tvg-id="stc 1" group-title="",stc 1
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473632.ts
+#EXTINF:-1 tvg-id="stc 2" group-title="",stc 2
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473633.ts
+#EXTINF:-1 tvg-id="stc 3" group-title="",stc 3
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473634.ts
+#EXTINF:-1 tvg-id="stc 4" group-title="",stc 4
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473635.ts
+#EXTINF:-1 tvg-id="Bein Sports 1" group-title="",Bein Sports 1
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1470081.ts
+#EXTINF:-1 tvg-id="Bein Sports 2" group-title="",Bein Sports 2
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1470082.ts
+#EXTINF:-1 tvg-id="Bein Sports 3" group-title="",Bein Sports 3
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1470083.ts
+#EXTINF:-1 tvg-id="Bein Sports 4" group-title="",Bein Sports 4
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1470084.ts
+#EXTINF:-1 tvg-id="Bein Sports 5" group-title="",Bein Sports 5
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1470085.ts
+#EXTINF:-1 tvg-id="Bein Sports 6" group-title="",Bein Sports 6
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1470086.ts
+#EXTINF:-1 tvg-id="Bein Sports 7" group-title="",Bein Sports 7
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1470087.ts
+#EXTINF:-1 tvg-id="Bein Sports 8" group-title="",Bein Sports 8
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1470088.ts
+#EXTINF:-1 tvg-id="Bein Sports 9" group-title="",Bein Sports 9
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1470089.ts
+#EXTINF:-1 tvg-id="DHOK Sport" group-title="",DHOK Sport
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473201.ts
+#EXTINF:-1 tvg-id="Rang Sport" group-title="",Rang Sport
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473205.ts
+#EXTINF:-1 tvg-id="MMN Sport" group-title="",MMN Sport
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473209.ts
+#EXTINF:-1 tvg-id="4 Sport" group-title="",4 Sport
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473203.ts
+#EXTINF:-1 tvg-id="AVA Sporr" group-title="",AVA Sporr
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473202.ts
+#EXTINF:-1 tvg-id="NRT Sporr" group-title="",NRT Sporr
+http://cloud.cdngold.pro:80/live/30526121927276/12078331119359/1473204.ts
